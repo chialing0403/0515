@@ -1,0 +1,1 @@
+https://whispering-plateau-46773.herokuapp.com/admin/login/?next=/admin/
